@@ -1,0 +1,7 @@
+git init .	-> Make a new folder and write
+This initializes the git repository.
+
+git status	-> Gives status about the directory
+
+git add 'filename'	-> Add the filename to staging area. Not committed yet!
+

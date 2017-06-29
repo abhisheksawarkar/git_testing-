@@ -16,4 +16,11 @@ Branches ---------------------
 When working on the code, when the thing is working properly and we want to test out some changes,
 we branch out from the main code, test the new thing. If it works, we merge it with the earlier master branch.
 
+git branch 'branch_name'-> Will make a new branch with name branch_name
+
+git branch		-> Will print name of created branches.
+
+git checkout 'branch_name' -> Will shift to other branch.
+
+
 

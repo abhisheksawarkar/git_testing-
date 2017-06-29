@@ -1,7 +1,7 @@
-git init .	-> Make a new folder and write
-This initializes the git repository.
+git init .		-> Make a new folder and write
+				This initializes the git repository.
 
-git status	-> Gives status about the directory
+git status		-> Gives status about the directory
 
 git add 'filename'	-> Add the filename to staging area. Not committed yet!
 
@@ -10,5 +10,10 @@ git commit -m 'message'	-> Commits to changes
 git diff 'filename'	-> will find what new is added in the file. This will be before the commit.
 
 git log			-> Will find previous commits and changes.
+
+Branches ---------------------
+
+When working on the code, when the thing is working properly and we want to test out some changes,
+we branch out from the main code, test the new thing. If it works, we merge it with the earlier master branch.
 
 

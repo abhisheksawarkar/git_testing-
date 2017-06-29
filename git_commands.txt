@@ -7,4 +7,8 @@ git add 'filename'	-> Add the filename to staging area. Not committed yet!
 
 git commit -m 'message'	-> Commits to changes
 
-git diff 'filename'	-> will find difference and changes between earlier version and new version
+git diff 'filename'	-> will find what new is added in the file. This will be before the commit.
+
+git log			-> Will find previous commits and changes.
+
+

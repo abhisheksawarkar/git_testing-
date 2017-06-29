@@ -5,7 +5,7 @@ git status		-> Gives status about the directory
 
 git add 'filename'	-> Add the filename to staging area. Not committed yet!
 
-git commit -m 'message'	-> Commits to changes
+git commit -m 'message'	-> Commits to changes. -am will add and commit with a message.
 
 git diff 'filename'	-> will find what new is added in the file. This will be before the commit.
 
@@ -21,6 +21,5 @@ git branch 'branch_name'-> Will make a new branch with name branch_name
 git branch		-> Will print name of created branches.
 
 git checkout 'branch_name' -> Will shift to other branch.
-
 
 

@@ -30,3 +30,9 @@ Merging-------------------------
 
 After developing various branches, we need to merge it in a single code base.
 
+git checkout 'master'	-> Go to master branch
+
+git merge 'branch_name'	-> branch to merge with
+
+git branch -d 'branch_name'	-> Deletes the branch
+

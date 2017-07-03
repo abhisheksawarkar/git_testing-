@@ -25,3 +25,8 @@ git branch		-> Will print name of created branches.
 
 git checkout 'branch_name' -> Will shift to other branch.
 
+
+Merging-------------------------
+
+After developing various branches, we need to merge it in a single code base.
+

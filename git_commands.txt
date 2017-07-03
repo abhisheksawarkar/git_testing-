@@ -30,6 +30,7 @@ Merging-------------------------
 
 After developing various branches, we need to merge it in a single code base.
 
+
 git checkout 'master'	-> Go to master branch
 
 git merge 'branch_name'	-> branch to merge with
@@ -45,3 +46,6 @@ git reset --hard <Hash>	-> Will DELETE all other commits and change to Hash comm
 git checkout <Hash>	-> Will only checkout the commit instead of deleting the other commits.
 
 git checkout master 	-> To go back to the master branch
+
+
+

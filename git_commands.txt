@@ -43,3 +43,5 @@ To revert to committed changes
 git reset --hard <Hash>	-> Will DELETE all other commits and change to Hash commit.
 
 git checkout <Hash>	-> Will only checkout the commit instead of deleting the other commits.
+
+git checkout master 	-> To go back to the master branch

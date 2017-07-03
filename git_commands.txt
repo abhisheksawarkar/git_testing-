@@ -47,5 +47,12 @@ git checkout <Hash>	-> Will only checkout the commit instead of deleting the oth
 
 git checkout master 	-> To go back to the master branch
 
+Remote repo-------------------------
 
+git remote 	-> List remote repository
 
+git remote -v	-> List repo with url
+
+git remote add <name> <url>	->  name:- shortcut for url,	url:- repo link from github 
+
+git remote <name> --all		-> uploads all branches to remote repository
